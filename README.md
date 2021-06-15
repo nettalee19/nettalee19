@@ -5,6 +5,8 @@ I'm Netta
 [<img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_color-512.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Mail" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />][Mail]
 
+</br>
+</br>
 ### Languages and Tools:
 
 <img width="28px" title="Visual Studio Code" align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
