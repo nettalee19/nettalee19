@@ -5,6 +5,10 @@ I'm Netta
 [<img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_color-512.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Mail" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />][Mail]
 
+[linkedin]: https://linkedin.com/in/netta-avidan
+[Mail]:<mailto:nettavidan19@gmail.com>
+
+
 </br>
 </br>
 ### Languages and Tools:
