@@ -1,9 +1,12 @@
 ### Hi there, I'm Netta 👋
 
--I'm curious and innovative.
--I enjoy learning new things!
+- ⚡ I'm curious and innovative.
+- 🌱 I enjoy learning new things!
 
-### Connect with me:
+<!-- ### Connect with me: -->
+
+### 📫 How to reach me:
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_color-512.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Mail" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />][Mail]
 
@@ -31,8 +34,9 @@
 </br>
 </br>
 
-[linkedin]: https://linkedin.com/in/mira-le-yosman-19070145
-[Mail]:<mailto:miralek@gmail.com>
+<!-- - 📫 How to reach me:
+[linkedin]: https://linkedin.com/in/netta-avidab
+[Mail]:<mailto:nettavidan19@gmail.com> -->
 
 <!-- ### GitHub Stats
 
