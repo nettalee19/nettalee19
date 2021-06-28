@@ -39,6 +39,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nettalee19&show_icons=true&theme=radical)">
 </p>
 
+<!-- </br> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nettalee19&layout=compact&card_width=445&theme=highcontrast) -->
+
 <!-- - 📫 How to reach me:
 [linkedin]: https://linkedin.com/in/netta-avidab
 [Mail]:<mailto:nettavidan19@gmail.com> -->
