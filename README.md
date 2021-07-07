@@ -1,21 +1,18 @@
-### Hi there, I'm Netta 👋
+### Hi there, I'm Netta 👋 Welcome to my Git!
 
+- ✌🏼 I'm a Fullstack developer 
 - ⚡ I'm curious and innovative.
 - 🌱 I enjoy learning new things!
 
 </br>
 
-- 📫 How to reach me:
+### 📫 Reach me at:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_color-512.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Mail" width="33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />][Mail]
-
-[linkedin]: https://linkedin.com/in/netta-avidan
-[Mail]:<mailto:nettavidan19@gmail.com>
-
+- nettavidan19@gmail.com
+- [<img align="left" alt="VScode" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/1024px-LinkedIn_Logo_2013.svg.png">](https://www.linkedin.com/netta-avidan/)
 
 </br>
-</br>
+
 
 #### Languages and Tools:
 <img width="32px" title="Visual Studio Code" align="left" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -35,42 +32,28 @@
 </br>
 </br>
 
+
+
+### Recent Projects:
+
+#### My first FrontEnd React project: 
+[Make-Up Ecommerce with cart](https://nettas-project.netlify.app/)
+/
+[ Source Code](https://github.com/nettalee19/Week-Project)
+
+<!-- #### My Fullstack project: 
+[Fitness-app](https://netta-fitness-app.herokuapp.com/)
+/
+[ Source Code](https://github.com/nettalee19/fitness-app) -->
+
+</br>
+</br>
+</br>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nettalee19&show_icons=true&theme=radical)">
 </p>
 
-<!-- </br> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nettalee19&layout=compact&card_width=445&theme=highcontrast) -->
-
-<!-- - 📫 How to reach me:
-[linkedin]: https://linkedin.com/in/netta-avidab
-[Mail]:<mailto:nettavidan19@gmail.com> -->
-
-<!-- ### GitHub Stats
-
-![nettalee19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nettalee19&count_private=true&show_icons=true&&hide=stars&theme=highcontrast)
-
-</br> 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nettalee19&layout=compact&card_width=445&theme=highcontrast) -->
 
 
 
-
-
-
-<!--
-**nettalee19/nettalee19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
