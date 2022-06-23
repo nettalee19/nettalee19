@@ -36,10 +36,12 @@
 
 ### Recent Projects:
 
-#### My first FrontEnd React project: 
+
+
+<!--#### My first FrontEnd React project: 
 [Make-Up Ecommerce with cart](https://nettas-project.netlify.app/)
 /
-[ Source Code](https://github.com/nettalee19/Week-Project)
+[ Source Code](https://github.com/nettalee19/Week-Project)-->
 
 <!-- #### My Fullstack project: 
 [Fitness-app](https://netta-fitness-app.herokuapp.com/)
