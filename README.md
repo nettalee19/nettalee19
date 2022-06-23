@@ -1,4 +1,12 @@
-### Hi there, I'm Netta 👋 Welcome to my Git!
+
+
+
+
+
+
+
+
+<!--### Hi there, I'm Netta 👋 Welcome to my Git!
 
 - ✌🏼 I'm a Fullstack developer 
 - ⚡ I'm curious and innovative.
@@ -36,7 +44,7 @@
 
 ### Recent Projects:
 
-
+-->
 
 <!--#### My first FrontEnd React project: 
 [Make-Up Ecommerce with cart](https://nettas-project.netlify.app/)
